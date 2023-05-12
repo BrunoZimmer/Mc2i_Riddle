@@ -1,0 +1,26 @@
+.container1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.box1 {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  padding: 40px;
+  border-radius: 20px;
+  background-color: #87CEFA;
+  text-align: center;
+  border: 2px solid #333;
+  border-color: #0025CC;
+  color: rgb(0, 0, 0);
+}
+
+
+.titreStyle {
+  position: relative;
+  transform-origin: 50%;
+  font-family: 'Trebuchet MS', sans-serif;
+  color: rgb(0, 0, 0);
+}

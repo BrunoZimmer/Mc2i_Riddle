@@ -1,0 +1,61 @@
+
+
+
+.body2 {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+    background-color: #ffffff;
+    padding-bottom: 10vmax;
+  }
+  
+  /* Styles pour l'image */
+  .img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  /* Styles pour le titre */
+  h1 {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 50px;
+    color: #000000;
+  }
+  
+  
+  .p2 {
+    font-size: 32px; /* La taille sera 32 pixels */
+    text-align: center; /* pour centrer le texte */
+    color: rgb(0, 0, 0);
+  }
+  
+  /* Styles pour le bouton */
+  .button2 {
+    background-color: green;
+    border-radius: 25px;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 20px;
+    width: 150px;
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .plot{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(255, 255, 255);
+  }
+  

@@ -1,0 +1,24 @@
+
+
+.LocalBallon{
+    background: #ebf8ff;
+    color: #3d12b3;
+    width: 100px;
+    position: relative;
+    padding: 16px 30px 16px 16px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+}
+
+  
+
+div {
+    flex: 1;    
+}
+strong{
+    margin-top: 4px;
+    font-size: 14px;
+    opacity: 0.8;
+    line-height: 20px;
+}
+
